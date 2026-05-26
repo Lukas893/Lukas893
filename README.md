@@ -36,7 +36,7 @@ const lukas = {
   idade: 21,
   localizacao: "Anápolis - GO",
   formação: "Engenharia de Software - UniEVANGÉLICA",
-  estudos: ["Node.js", "JavaScript", "Python"],
+  cursando: ["Node.js", "JavaScript", "Python"],
   conhecimentos: ["Node.js", "Python básico", "JavaScript"],
   objetivo: "Busca por oportunidade na área de programação"
 }
