@@ -33,7 +33,7 @@
 ```javascript
 const lukas = {
   nome: "Lukas Fonseca Figueiredo Macedo",
-  idade: 21,
+  idade: 22,
   localizacao: "Anápolis - GO",
   formação: "Engenharia de Software - UniEVANGÉLICA",
   cursando: ["Node.js", "JavaScript", "Python"],
